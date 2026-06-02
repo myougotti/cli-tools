@@ -1,0 +1,31 @@
+# Build artifacts
+build/
+out/
+cmake-build-*/
+*.o
+*.obj
+*.a
+*.lib
+*.so
+*.dylib
+*.dll
+*.exe
+*.pdb
+
+# CMake
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+Testing/
+_deps/
+
+# Tooling
+compile_commands.json
+.cache/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+.DS_Store
