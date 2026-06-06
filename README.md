@@ -42,6 +42,13 @@ color output, `-r`, large-file handling, fuzz tests.
 - [CLI](https://github.com/fffaraz/awesome-cpp/blob/master/README.md#cli)
 - [Regular Expression](https://github.com/fffaraz/awesome-cpp/blob/master/README.md#regular-expression)
 
+## Working principles
+
+- **Think before coding:** state assumptions, ask when unsure, never guess
+- **Simplicity first:** write the minimum code that solves the problem, nothing extra
+- **Surgical changes:** every changed line must trace back to your request
+- **Goal-driven:** turn vague instructions into verifiable success criteria before starting
+
 ## License
 
 MIT — see [LICENSE](LICENSE)
